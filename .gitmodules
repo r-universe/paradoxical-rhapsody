@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "PLFD"]
+	path = PLFD
+	url = https://github.com/paradoxical-rhapsody/plfd
+	shallow = true
+	registered = true
 [submodule "PPSFS"]
 	path = PPSFS
 	url = https://github.com/paradoxical-rhapsody/ppsfs
