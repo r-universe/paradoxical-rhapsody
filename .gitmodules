@@ -8,6 +8,9 @@
 [submodule "PPSFS"]
 	path = PPSFS
 	url = https://github.com/paradoxical-rhapsody/ppsfs
+[submodule "drrglm"]
+	path = drrglm
+	url = https://github.com/paradoxical-rhapsody/drrglm
 [submodule "pboost"]
 	path = pboost
 	url = https://github.com/paradoxical-rhapsody/pboost
